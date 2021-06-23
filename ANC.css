@@ -264,7 +264,7 @@ a{
     display:flex;
     justify-content:center;
     padding:189px 0 64px 0;
-    background-image: url(Imagens\ pra\ etapa\ 3/banner.png);
+    background-image: url(Imagens/banner.png);
     background-repeat:repeat-x;
     background-size:contain;
     background-position:center;
@@ -616,7 +616,7 @@ color:#14a3cb
     margin-left: 80px;
 }
 .Site_Contato{
-    background-image: url(Imagens\ pra\ etapa\ 3/background-contato.png);
+    background-image: url(Imagens/background-contato.png);
     background-size:cover;
     background-position:right center;
     background-repeat:no-repeat;
